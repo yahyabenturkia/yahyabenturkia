@@ -31,4 +31,4 @@ Python · C · C++ · PyTorch · OpenCV · STM32 · NVIDIA Jetson · Raspberry P
 
 ---
 
-Sousse, Tunisia · [LinkedIn](https://www.linkedin.com/in/yahya-ben-turkia/) · yahya.benturkiya@gmail.com
+📍 Sousse, Tunisia · 🔗[LinkedIn](https://www.linkedin.com/in/yahya-ben-turkia/) ·✉️ yahya.benturkiya@gmail.com
